@@ -27,4 +27,10 @@ Plataforma online para promover a saúde mental, oferecendo recursos sobre medit
   - Impacto positivo na comunidade
   - Aumento da conscientização sobre saúde mental
 
+**Como executar**
+
+  - Baixe o arquivo Mental_Health APP.zip
+  - Descompacta ele na pasta de mesmo nome.
+  - Inicie o arquivo .exe com a imagem dentro do mesmo repositório do arquivo.
+
 **Licença MIT.**
